@@ -1,2 +1,2 @@
 logger.info('log entry for testing'):
-logger.info('log entry for remote'):
+logger.info('log entry for remote and rebase'):
